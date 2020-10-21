@@ -4,24 +4,24 @@
 These are the programming languages that I am familar with
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" unselectable="on" alt="express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" unselectable="on" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" unselectable="on" alt="python" width="40" height="40"/>
 </p>
 
 These are the technical tools that I use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" unselectable="on" alt="bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" unselectable="on" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg" unselectable="on" alt="linux" width="40" height="40"/>
 </p>
 
 
 These are my technical profiles
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/hk-tong" target="blank">
+  <a href="https://stackoverflow.com/users/5894029/hk-tong" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hk-tong" height="30" width="30" /></a>
   <a href="https://kaggle.com/huikang" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="huikang" height="30" width="30" /></a>
