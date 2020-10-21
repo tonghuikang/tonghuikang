@@ -6,13 +6,10 @@ These are the programming languages that I am familar with
 
 <p align="left">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" unselectable="on" alt="express" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" unselectable="on" alt="git" width="40" height="40"/>
-  </a>
-  <a href="#">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" unselectable="on" alt="python" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" unselectable="on" alt="express" width="40" height="40"/>
   </a>
 </p>
 
@@ -20,6 +17,9 @@ These are the programming languages that I am familar with
 These are the technical tools that I use
 
 <p align="left" style="pointer-events: none; user-select: none;">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" unselectable="on" alt="git" width="40" height="40"/>
+  </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" unselectable="on" alt="bash" width="40" height="40"/>
   </a>
@@ -35,6 +35,9 @@ These are the technical tools that I use
 These are my technical profiles
 
 <p align="left">
+  <a href="https://github.com/tonghuikang" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tonghuikang" height="30" width="30" />
+  </a>
   <a href="https://stackoverflow.com/users/5894029/hk-tong" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hk-tong" height="30" width="30" />
   </a>
