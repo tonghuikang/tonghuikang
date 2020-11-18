@@ -50,9 +50,11 @@ These are my technical profiles
 These are my competitive programming profiles
 
 <p align="left">
+  <!--
   <a href="https://codeforces.com/profile/huikang" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="huikang" height="30" width="30" />
   </a>
+  -->
   <a href="https://www.leetcode.com/tonghuikang" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tonghuikang" height="30" width="30" />
   </a>
@@ -70,6 +72,7 @@ These are my competitive programming profiles
   </a>
 </p>
 
+[![Codeforces Rating](https://cfrating.ihcr.top/?user=huikang)](https://codeforces.com/profile/huikang)
 
 These are my social media profiles
 
