@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tong Hui Kang, from Singapore 🇸🇬</h2>
 <h4 align="left">I am graduating on August 2021 from Singapore University of Technology and Design.</h4>
 
-[![Codeforces Rating](https://cfrating.ihcr.top/?user=huikang)](https://codeforces.com/profile/huikang)
+![Badge](https://cp-logo.vercel.app/codeforces/huikang)
 <br>
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/tonghuikang/)
 <br>
