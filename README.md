@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Tong Hui Kang, from Singapore 🇸🇬</h2>
-<h4 align="left">I am graduating on August 2021 from Singapore University of Technology and Design.</h4>
 
 ![Badge](https://cp-logo.vercel.app/codeforces/huikang)
 <br>
