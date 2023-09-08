@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tong Hui Kang, from Singapore 🇸🇬</h2>
 
-![Badge](https://cp-logo.vercel.app/codeforces/huikang)
-<br>
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/tonghuikang/)
 <br>
 
